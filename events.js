@@ -10,7 +10,8 @@ textBox.addEventListener("focus", newFunction);
 
 function newFunction()
 {
-    textBox.style.backgroundColor = "green";
+    textBox.style.backgroundColor = "green"
+    textBox.style.color = "white";
 
 }
 
